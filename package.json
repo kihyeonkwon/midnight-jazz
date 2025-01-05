@@ -3,7 +3,7 @@
   "displayName": "Midnight Jazz",
   "description": "Inspired by Ibanez Artcore jazz guitar",
   "publisher": "KihyeonKwon",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "icon": "as93-icon.png",
   "engines": {
     "vscode": "^1.96.0"
