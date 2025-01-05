@@ -1,10 +1,10 @@
 # Ebony Tortoise & Gold
 
-> Author: [Kihyeon (Ki)]
+> Author: [Kihyeon Kwon(Ki)]
 >
-> **Inspired by**: My Jazz Guitar (Black body, brown tortoise pickguard, gold hardware)
+> **Inspired by**: My Jazz Guitar (Ibanez AS93)
 
-“Ebony Tortoise & Gold”는 재즈 기타의 깊은 블랙 바디, 브라운(거북등무늬) 피크가드, 그리고 골드 하드웨어에서 영감을 얻은 VS Code 컬러 테마입니다. 심플하면서도 클래식한 재즈 느낌과 골드 포인트를 살려, 코드 편집에 아늑한 분위기를 제공합니다.
+“안녕하세요! 이 테마는 제가 사용하는 아이바네즈 as93 기타에서 영감을 받아 만들었습니다! 재즈 기타의 깊은 블랙 바디, 브라운 피크가드, 그리고 골드 하드웨어에서 영감을 얻은 VS Code 컬러 테마입니다. 심플하면서도 클래식한 재즈 느낌과 고급스러운 브라운과 골드 포인트를 살려, 코드 편집에 그루브를 더해주는 테마입니다. 편안한 가독성과 눈의 피로를 최소화하도록 디자인했으니, 코딩 세션을 더욱 즐겁게 보내세요!”
 
 ---
 
@@ -19,17 +19,21 @@
    - 블랙과 골드/브라운 조합은 재즈 기타 특유의 클래식하고 고급스러운 느낌을 살려줍니다.
 3. **편안한 가독성**
    - 주석, 문자열, 키워드 등의 토큰 색을 명확히 구분해, 긴 코딩 세션에서도 눈의 피로를 최소화하도록 디자인했습니다.
+4. **추천 곡**
+   - 코드 작성 시, 재즈 음악과 함께 듣기 좋은 곡을 추천해드립니다. 코드 작성을 더욱 즐겁게 만들어보세요!
+   - Exactly Like You - Herb Ellis, Oscar Peterson
+   - Midnight Blue - Kenny Burrell
+   - Sunny - Pat Martino
+   - A Go Go - John Scofield
 
 ---
 
 ## Installation
 
 1. **Visual Studio Code**에서 `Extensions (Ctrl+Shift+X)` 패널을 열어주세요.
-2. 상단 검색창에 `Ebony Tortoise & Gold` (또는 바꾼 테마명) 을 입력해 검색합니다.
+2. 상단 검색창에 `Midnight Jazz' 을 입력해 검색합니다.
 3. 검색 결과에서 본 테마를 선택 후, **Install** 버튼을 클릭합니다.
-4. 설치가 완료되면 VS Code 좌측 하단의 톱니바퀴 → **Color Theme**를 클릭한 뒤, 테마 목록에서 `Ebony Tortoise & Gold`를 선택하세요.
-
-> Alternatively: .vsix 파일이 있다면, 확장 패널 우측 상단의 … (More Actions) 메뉴에서 **Install from VSIX…**를 선택해 테마 패키지를 설치할 수도 있습니다.
+4. 설치가 완료되면 VS Code 좌측 하단의 톱니바퀴 → **Color Theme**를 클릭한 뒤, 테마 목록에서 `Midnight Jazz`를 선택하세요.
 
 ---
 
@@ -41,7 +45,7 @@
 
 ---
 
-## Color Palette (주요 색상 예시)
+## Color Palette
 
 | Element                | Color          | Hex       |
 | ---------------------- | -------------- | --------- |
@@ -58,22 +62,7 @@
 
 ## Screenshots
 
-> [Optional]
->
-> 실제 VS Code 스크린샷이나 코드 예시 스니펫 이미지를 첨부해, 적용 시 어떤 느낌인지 보여줄 수 있습니다.
-> 예:
->
-> ```
-> js
-> 코드 복사
-> // Ebony Tortoise & Gold 테마 예시
-> function greet(name) {
->   console.log(`Hello, ${name}!`);
-> }
->
-> greet("Kihyeon");
->
-> ```
+![Screenshot](./screenshot.png)
 
 ---
 
@@ -92,7 +81,8 @@
 
 ## Special Thanks
 
-- 영감이 되어준 내 재즈 기타
+- 영감이 되어준 내 재즈 기타 (Ibanez AS93)!
+- 기타를 선물해준 사랑하는 희경이!
 - VS Code와 함께 테마를 즐겨줄 모든 사용자
 
 ---
