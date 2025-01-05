@@ -1,0 +1,21 @@
+{
+  "name": "midnight-jazz",
+  "displayName": "Midnight Jazz",
+  "description": "Inspired by Ibanez Artcore jazz guitar",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight Jazz",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight Jazz-color-theme.json"
+      }
+    ]
+  }
+}
