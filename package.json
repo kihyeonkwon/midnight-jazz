@@ -4,6 +4,7 @@
   "description": "Inspired by Ibanez Artcore jazz guitar",
   "publisher": "KihyeonKwon",
   "version": "0.0.1",
+  "icon": "as93-icon.png",
   "engines": {
     "vscode": "^1.96.0"
   },
