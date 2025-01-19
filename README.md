@@ -68,7 +68,7 @@ Screenshot
 ![Screenshot](./screenshot.png)
 
 My guitar
-![Ibanez AS93](./as93.png)
+![Ibanez AS93](./as93.jpeg)
 
 ---
 
@@ -167,7 +167,7 @@ Screenshot
 ![Screenshot](./screenshot.png)
 
 My guitar
-![Ibanez AS93](./as93.png)
+![Ibanez AS93](./as93.jpeg)
 
 ---
 
